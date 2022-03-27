@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>About Me</title>
+  </head>
+  <body>
+    <h1>Jessie Lu</h1>
+    <p>I'm a first-year student at UVA planning to study computer science and economics.</p>
+    <p>Some fun facts:</p>
+    <ul>
+      <li> I'm originally from Wayne, NJ, which is a town in north Jersey a little less than an hour from NYC.</li>
+      <li>I love drawing and painting.</li>
+      <li>My family recently adopted a dog named Coco!</li>
+      <li>My favorite foods:</li>
+      <ol>
+	<li>Salmon sashimi</li>
+	<li>Dim sum</li>
+	<li>Pad see yew</li>
+      </ol>
+      <li></li>
+  </body>
+</html>
